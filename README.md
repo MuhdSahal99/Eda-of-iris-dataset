@@ -4,7 +4,7 @@ _A basic table is a two-dimensional grid of data, in which the rows represent in
 _**Features matrix -** This table layout makes clear that the information can be thought of as a two-dimensional numerical array or matrix, called the features matrix with shape [n_samples, n_features]_
 
 _**Target array.-** In addition to the feature matrix X, we also generally work with a label or target array, which by convention we will usually call y. The target array is usually one dimensional, with length n_samples, and is generally contained in a NumPy array or Pandas Series._
-_## Machine Learning Terminology_
+## Machine Learning Terminology
 
 _Each row is an observation (also known as : sample, example, instance, record)_
 
